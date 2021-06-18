@@ -1,3 +1,10 @@
+---
+layout: post
+title:	"create blog on github"
+date:	2021-06-18 18:31:00 +0800
+categories: github blog
+---
+
 # 在 Github 上建立博客
 
 1. 在 Github 任何页面下，使用右上角  ‘+’  下拉菜单选择 **New repository（新建仓库）**
