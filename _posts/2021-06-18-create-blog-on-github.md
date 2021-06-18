@@ -5,35 +5,35 @@
 3. 建立完成后，使用 Git Bash 克隆到本地
 4. 在 win10 WSL 中安装 Ruby 环境
 
-```shell
-$ sudo apt-get install ruby-full build-essential zlib1g-dev
-# 安装 Ruby 以及配套软件
-$ echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-$ echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-$ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-$ source ~/.bashrc
-# 配置环境变量以及 Gem 安装目录至 .bashrc
-$ gem install jekyll -v ‘3.9.0’
-$ gem install bundler -v ‘2.1.2’
-# 使用 Ruby 包管理器 Gem 安装 jekyll 和 bundler （版本太高 GitHub 不支持）
-```
+	```shell
+	$ sudo apt-get install ruby-full build-essential zlib1g-dev
+	# 安装 Ruby 以及配套软件
+	$ echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+	$ echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+	$ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+	$ source ~/.bashrc
+	# 配置环境变量以及 Gem 安装目录至 .bashrc
+	$ gem install jekyll -v ‘3.9.0’
+	$ gem install bundler -v ‘2.1.2’
+	# 使用 Ruby 包管理器 Gem 安装 jekyll 和 bundler （版本太高 GitHub 不支持）
+	```
 
 5. 将网上下载好的 jekyll theme 拷贝到 NAME.github.io 目录中（步骤 3克隆到本地的目录）
 
 6. 使用 jekyll 命令构建静态网站（将来可以本地调试）
 
-```shell
-$ jekyll new . --force
-# --force 选项是当目录非空时强制构建的命令选项
-```
+	```shell
+	$ jekyll new . --force
+	# --force 选项是当目录非空时强制构建的命令选项
+	```
 
 7. 打开 Jekyll 创建的 Gemfile 文件（就在当前目录下）
 8. 将 "#" 添加到以 `gem "jekyll "` 开头的行首，以注释此行
 9. 编辑以 `# gem "github-pages"` 开头的行来添加 `github-pages` gem。 将此行更改为：
 
-```ruby
-gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
-```
+	```ruby
+	gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
+	```
 
 ​		将 *GITHUB-PAGES-VERSION* 替换为 `github-pages` gem 的最新支持版本
 
@@ -49,19 +49,19 @@ gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
 
 12. 在本地运行您的 Jekyll 站点。
 
-```shell
-$ bundle exec jekyll serve
-```
+	```shell
+	$ bundle exec jekyll serve
+	```
 
 13. 要预览站点，请在 web 浏览器中导航到 `http://localhost:4000`
 
 14. 调试完成后，提交修改至 Github
 
-```shell
-$ git add .
-$ git commit -m "YOUR COMMIT"
-$ git push -u origin main	#github pages 默认分支是 ‘main’
-```
+	```shell
+	$ git add .
+	$ git commit -m "YOUR COMMIT"
+	$ git push -u origin main	#github pages 默认分支是 ‘main’
+	```
 
 
 
@@ -70,6 +70,7 @@ $ git push -u origin main	#github pages 默认分支是 ‘main’
 完成
 
 参考网址：
+
 [GitHub Pages 文档 - GitHub Docs](https://docs.github.com/cn/pages)
 
 [Jekyll on Ubuntu  Jekyll  Simple, blog-aware, static sites (jekyllrb.com)](https://jekyllrb.com/docs/installation/ubuntu/)
