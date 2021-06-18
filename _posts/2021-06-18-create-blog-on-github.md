@@ -35,11 +35,11 @@
 	gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
 	```
 
-​		将 *GITHUB-PAGES-VERSION* 替换为 `github-pages` gem 的最新支持版本
+	将 *GITHUB-PAGES-VERSION* 替换为 `github-pages` gem 的最新支持版本
 
-​		您可以在这里找到这个版本：“[依赖项版本](https://pages.github.com/versions/)”
+	您可以在这里找到这个版本：“[依赖项版本](https://pages.github.com/versions/)”
 
-​		正确版本 Jekyll 将安装为 `github-pages` gem 的依赖项。
+	正确版本 Jekyll 将安装为 `github-pages` gem 的依赖项。
 
 10. 保存并关闭 Gemfile
 
