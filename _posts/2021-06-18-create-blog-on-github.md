@@ -70,9 +70,9 @@ $ git push -u origin main	#github pages 默认分支是 ‘main’
 完成
 
 参考网址：
-	[GitHub Pages 文档 - GitHub Docs](https://docs.github.com/cn/pages)
+[GitHub Pages 文档 - GitHub Docs](https://docs.github.com/cn/pages)
 
-	[Jekyll on Ubuntu | Jekyll • Simple, blog-aware, static sites (jekyllrb.com)](https://jekyllrb.com/docs/installation/ubuntu/)
+[Jekyll on Ubuntu | Jekyll • Simple, blog-aware, static sites (jekyllrb.com)](https://jekyllrb.com/docs/installation/ubuntu/)
 
-	[bundle update和bundle install的区别_暗夜之虎的专栏-CSDN博客_bundle update](https://blog.csdn.net/thinkhb/article/details/50190877)
+[bundle update和bundle install的区别_暗夜之虎的专栏-CSDN博客_bundle update](https://blog.csdn.net/thinkhb/article/details/50190877)
 
