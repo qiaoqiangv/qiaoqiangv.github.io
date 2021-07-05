@@ -2,7 +2,8 @@
 layout: post
 title:  "create blog on github"
 date:   2021-06-18 18:41:47 +0800
-categories: github blog
+categories: [github blog]
+tags: [github, blog]
 ---
 # 在 Github 上建立博客
 

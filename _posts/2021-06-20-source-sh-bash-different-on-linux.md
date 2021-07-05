@@ -2,7 +2,8 @@
 layout: post
 title:  "what's different of source, sh, bash command on linux"
 date:   2021-06-20 22:04:00 +0800
-categories: linux shell
+categories: [linux shell]
+tags: [linux, shell]
 ---
 # linux里source、sh、bash、./有什么区别
 

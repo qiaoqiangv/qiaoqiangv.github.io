@@ -2,7 +2,8 @@
 layout: post
 title:  "install-python-prog-env-and-config-vscode"
 date:   2021-07-05 8:47:00 +0800
-categories: Python vscode
+categories: [Python vscode]
+tags: [Python, vscode]
 ---
 
 # windows 中安装 Python 以及配置 vscode 的 Python 环境
