@@ -33,6 +33,7 @@ tags: [github, blog]
 	$ jekyll new . --force
 	# --force 选项是当目录非空时强制构建的命令选项
 	```
+   如果有报错，则需要手动安装依赖的包
 
 7. 打开 Jekyll 创建的 Gemfile 文件（就在当前目录下）
 8. 将 "#" 添加到以 `gem "jekyll "` 开头的行首，以注释此行
