@@ -41,6 +41,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# my personal setting
-timezone: Asia/Shanghai
