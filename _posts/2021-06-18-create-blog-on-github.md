@@ -71,7 +71,7 @@ tags: [github, blog]
 	$ git push -u origin main	#github pages 默认分支是 ‘main’
 	```
 
-
+15. 由于 jekyll 安装后 会在 .gitignore 文件中添加 ignore 选项，所以每次重新 git clone 下来博客源代码后，要按照之前的步骤重新在本地安装 jekyll 和 bundle ，然后才能推送文章到 github 博客上面。
 
 
 
