@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peter's Corner
+title: Qiaoqiang's Blog
 ---
 
 Hi there, I am Qiao Qiang, an [Open Source][oss] hobbyist. This site is
