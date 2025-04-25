@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "the-important-of-English-and-reading-with-note-and-the-important-of-output-article-regularly"
@@ -6,7 +5,6 @@ date:   2025-04-24 23:21:00 +0800
 categories: [Article]
 tags: [English, Reading-notes, Article]
 ---
-
 # 关于英语的重要性以及阅读时做笔记和定期输出文章的重要性
 
 ## 1. 英语的重要性
