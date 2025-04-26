@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "the-important-of-English-and-reading-with-note-and-the-important-of-output-article-regularly"
+title:  "the-important-of-English-and-reading-with-note-and-output-article-regularly"
 date:   2025-04-24 23:21:00 +0800
 categories: [Article]
 tags: [English, Reading-notes, Article]
