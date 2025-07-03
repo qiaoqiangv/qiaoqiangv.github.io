@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "programmer personal grow up"
-date:   2025-04-28 17:13:00 +0800
+date:   2025-07-03 22:32:00 +0800
 categories: [Article]
 tags: [programmer, grow up]
 ---
