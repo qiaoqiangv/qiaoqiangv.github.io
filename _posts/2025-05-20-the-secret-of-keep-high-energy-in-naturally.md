@@ -8,6 +8,7 @@ tags: [life, healthy]
 # 保持自然高精力的秘诀
 
 原视频 <https://www.bilibili.com/video/BV1XVECzMEjq?vd_source=2a86acc8a15515e23cdd21a4a4a52d28>
+如有侵权,请联系我: qiaoqiangv@126.com
 
 1. Sleep like a savage, 睡眠是你精力来源的基础,它调节荷尔蒙,修复肌肉,让大脑处理白天的混乱.
 
