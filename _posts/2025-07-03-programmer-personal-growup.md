@@ -9,6 +9,7 @@ tags: [programmer, grow up]
 
 原视频: 【大龄低潜程序员关于个人成长的思考:我的教训，你的财富】
 <https://www.bilibili.com/video/BV17KK2z4E6R?vd_source=2a86acc8a15515e23cdd21a4a4a52d28>
+
 如有侵权,请联系我: qiaoqiangv@126.com
 
 1. 个人成长的目的
