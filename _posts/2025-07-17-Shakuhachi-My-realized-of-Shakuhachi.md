@@ -8,6 +8,7 @@ tags: [Music, Shakuhachi, self-realize]
 # 关于尺八，我的一些体会
 
 原视频: 【尺八·一声一世】
+
 https://www.bilibili.com/bangumi/play/ep278014?vd_source=2a86acc8a15515e23cdd21a4a4a52d28
 
 如有侵权,请联系我: qiaoqiangv@126.com
