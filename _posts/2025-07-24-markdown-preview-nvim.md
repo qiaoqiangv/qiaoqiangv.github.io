@@ -5,6 +5,7 @@ date:   2025-07-24 15:30:00 +0800
 categories: [Article]
 tags: [nvim, plugin, markdown]
 ---
+
 1. 在 ~/.nvimrc 中添加如下内容：
 
     $ nvim .nvimrc
