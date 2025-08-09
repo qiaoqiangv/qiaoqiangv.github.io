@@ -1,9 +1,0 @@
-使用markdown写博客只需将文件放入本文件夹，即_post文件夹中
-
-名称规则：yyyy-mm-dd-post-name.md
-
-默认博文的名称就是文件名称，并且是英文。如果想另外定义文件名称的话，在文件开头加入title标签。如下格式
----
-layout: post
-title: 博文名称
----
